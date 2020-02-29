@@ -1,0 +1,168 @@
+body,p{
+  line-height:1.5;
+  margin:0;
+  font-family:arial,helvetica,sans-serif;
+  font-size:14px;
+  color:rgb(22,22,24);
+}
+u+#font-fix{
+  display:block !important;
+}
+body{
+  margin:0 !important;
+}
+.title{
+  line-height:1.3;
+}
+h2,strong.subheader{
+  font-family:georgia,'times new roman',serif;
+  font-size:20px;
+  font-weight:bold;
+  margin-top:10px;
+  margin-bottom:7px;
+  display:block;
+  line-height:1.4;
+}
+a{
+  text-decoration:none;
+}
+
+/* style container */
+
+#container{
+  padding: 15px;
+  background-color: #ffff;
+  /* display: block; */
+  /* box-shadow: 5px 10px; */
+  border: 1px solid #e6e6e6;
+  border-radius: 15px;
+  box-shadow: 5px 10px 8px #888888;
+  /* width:50%; */
+}
+.survey a{
+  color:#161618;
+}
+.divider-line{
+  border-top-color:#359df7;
+  border-top-width:1px;
+  border-top-style:solid;
+}
+.orange-divider{
+  border-top-color:#ff7735;
+}
+.podcast-divider{
+  border-top-color:#d40000;
+}
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px){
+.ipad{
+  width:319px !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+.full,img{
+  width:100% !important;
+  height:auto !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+img#fos-logo{
+  max-width:250px !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+table.sponsor{
+  max-width:200px;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+.block{
+  display:block !important;
+  line-height:18px !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+.center{
+  margin:0 auto !important;
+  text-align:center !important;
+  float:none !important;
+  clear:both !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+.box{
+  width:90% !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+h1{
+  font-size:36px !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+h4{
+  font-size:24px !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+h3{
+  font-size:10px !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+.power{
+  width:80px !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+.sponsor{
+  width:230px !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+.survey div{
+  margin-bottom:5px !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+.title{
+  font-size:18px !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+strong.subheader{
+  font-size:15px !important;
+  line-height:1.4 !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+.bttn{
+  padding-bottom:30px !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+body{
+  line-height:1.2 !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+p{
+  font-size:12px !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+ul{
+  margin-top:10px;
+  padding-left:25px;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+ul li{
+  margin-bottom:7px;
+  font-size:12px !important;
+}
+
+}	@media screen and (min-device-width: 10px) and (max-width:640px){
+img#logo{
+  max-width:150px !important;
+}
+}
